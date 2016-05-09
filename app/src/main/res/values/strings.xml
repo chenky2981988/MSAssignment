@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">MSAssignment</string>
+    <string name="search_image">Search Image</string>
+    <string name="empty_placeholder">Search List is Empty</string>
+    <string name="internet_error_msg">No Internet Connection. Kindly check your network settings.</string>
+</resources>
